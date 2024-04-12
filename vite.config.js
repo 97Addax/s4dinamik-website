@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/s4dinamik-website/',
+  base: "/s4dinamik-website/",
   plugins: [
     vue(),
   ],
